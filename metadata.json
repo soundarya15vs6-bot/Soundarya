@@ -1,0 +1,6 @@
+{
+  "name": "FocusForge - Productivity Coach & Daily Planner",
+  "description": "Expert productivity coach and daily study and work planner with structured markdown schedules, actionable checklists, focus timers, and mentor guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
